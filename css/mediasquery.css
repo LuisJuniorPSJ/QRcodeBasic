@@ -1,4 +1,4 @@
-@media screen and (max-width: 425px) {
+@media (max-width: 821px) and (min-width: 300px) {
   .container-content {
     width: 70%;
   }
